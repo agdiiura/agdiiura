@@ -2,6 +2,6 @@
 
 - 📈 I’m currently working on portfolio optimization and algo trading
 - ⚙️ I’m currently learning rust
-- 🤔 I’m looking for help with open source projects
+- 🤔 I’m looking to help with open source projects
 - 💬 Ask me about... anything you want!
 - 📫 How to reach me: andreadiiura@gmail.com
