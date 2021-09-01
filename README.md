@@ -5,3 +5,5 @@
 - 🤔 I’m looking to help with open source projects
 - 💬 Ask me about... anything you want!
 - 📫 How to reach me: andreadiiura@gmail.com
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agdiiura)](https://github.com/agdiiura)
