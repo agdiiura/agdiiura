@@ -6,4 +6,5 @@
 - 💬 Ask me about... anything you want!
 - 📫 How to reach me: andreadiiura@gmail.com
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agdiiura&theme=onedark&hide=html)
+#### Stats
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agdiiura&theme=onedark&hide=html&layout=compact)
