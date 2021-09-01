@@ -7,4 +7,4 @@
 - 📫 How to reach me: andreadiiura@gmail.com
 
 #### Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agdiiura&theme=onedark&hide=html&layout=compact&langs_count=6)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agdiiura&theme=onedark&hide=html&layout=compact&langs_count=6&count_private=true)
