@@ -11,5 +11,5 @@
 
 #### Wakatime Stats
 
-[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=agdiiura&layout=compact&theme=algolia)](https://github.com/agdiiura/github-readme-stats)
+[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=agdiiura&layout=compact&theme=algolia)](https://github.com/agdiiura/agdiiura/edit/master/README.md)
 
