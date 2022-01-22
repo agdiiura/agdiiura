@@ -8,3 +8,8 @@
 
 #### Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agdiiura&theme=onedark&hide=html&layout=compact&langs_count=6&count_private=true)
+
+#### Wakatime Stats
+
+[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=agdiiura&layout=compact&theme=algolia)](https://github.com/agdiiura/github-readme-stats)
+
