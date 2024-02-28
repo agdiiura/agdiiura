@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Andrea! I'm currently Data Scientist at Enel
+### Hi there 👋, I'm Andrea! I'm currently Data Scientist at Cassa Depositi e Prestiti
 
 - 📈 I’m currently working on portfolio optimization and algo trading
 - ⚙️ I’m currently learning rust
